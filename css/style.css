@@ -1,0 +1,37 @@
+@import url(bootstrap.min.css);
+@import url(normalize.css);
+
+/* *{
+    border: 1px solid red;
+} */
+
+body, html{
+    font-family: 'Roboto', sans-serif;
+}
+
+svg{
+    margin-bottom: 4px;
+}
+
+#header .nav-link{
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 12px;
+}
+
+.espaco{
+    height: 4em;
+}
+
+.espaco-g{
+    height: 6em;
+}
+
+.espaco-xg{
+    height: 10em;
+}
+
+.img-logo{
+    width: 30px;
+    margin-bottom: 4px;
+}
